@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auto-bill.iml" filepath="$PROJECT_DIR$/auto-bill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms-auto-bill-api/wms-auto-bill-api.iml" filepath="$PROJECT_DIR$/wms-auto-bill-api/wms-auto-bill-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms-auto-bill-biz/wms-auto-bill-biz.iml" filepath="$PROJECT_DIR$/wms-auto-bill-biz/wms-auto-bill-biz.iml" />
+    </modules>
+  </component>
+</project>
